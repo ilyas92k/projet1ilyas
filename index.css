@@ -1,0 +1,47 @@
+body{
+    background-color: lightsalmon; 
+}
+.container{
+    width: 600PX;
+    background-color: salmon;
+    margin: 20px auto;
+    text-align: center;
+    padding: 16px;
+
+
+}
+img {
+    width: 100%;
+    border-radius: 4%;
+}
+#H11{
+    text-align: center;
+    color: rgb(158, 56, 56);
+}
+#h10 {
+    text-align: center;
+    background-color: salmon;
+    border-radius: 2%;
+}
+#lien{
+    text-align: center;
+    color: brown;
+    background-color: aliceblue;
+}
+.titre {
+    background-color: antiquewhite;
+}
+nav{
+    background-color: antiquewhite;
+}
+footer{
+    background-color: antiquewhite;
+}
+nav a {
+color: darkred;
+text-decoration: none;
+margin-right: 12px;
+font-weight: bold;
+
+
+}
